@@ -1,4 +1,4 @@
-![EXP1 2 Drawing_page-0001 (1)](https://github.com/user-attachments/assets/e010330f-3ccd-46e7-b0f8-d8f0f738399c)# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Uploading EXP1.2 Drawing_page-0001 (1).jpg…]()
+![EXP1 2 Drawing_page-0001 (1)](https://github.com/user-attachments/assets/e010330f-3ccd-46e7-b0f8-d8f0f738399c)
 
  
  ## RESULT
